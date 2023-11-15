@@ -1,0 +1,44 @@
+body {
+  background-color: #517dce;
+  font-family: 'Arial', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: white;
+  border-radius: 100%;
+  padding: 60px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+form {
+  margin: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.link-container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.link-container a {
+  margin: 0 10px;
+}
